@@ -20,6 +20,8 @@
 #### Atualmente estudando
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.Js)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 <!-- #### Projetos
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed) -->
