@@ -1,7 +1,6 @@
 # Gabriel Escorel Guerra
   **`Estudante de Ciência da Computação`**
-  **`Desenvolvedor Front-End`**
-  **`Caminhando para o Full-Stack`**
+  **`Desenvolvedor de Software`**
 
 #### Linguagens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
