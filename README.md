@@ -8,6 +8,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=663399)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Tecnologias
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -15,12 +16,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-000?&logo=google-apps-script)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 #### Atualmente estudando
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.Js)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 <!-- #### Projetos
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed) -->
