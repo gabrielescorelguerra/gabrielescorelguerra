@@ -5,13 +5,17 @@
     Interessado em desenvolvimento, automação e Inteligência Artificial.
   </p>
  <br>
-  <p>
+  <p align="center">
     <a href="https://linkedin.com/in/gabriel-escorel-guerra" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
     </a>
-    &nbsp;
-    <a href="mailto:gabrielescorelguerra@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-0969DA?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href="mailto:SEU_EMAIL">
+      <img
+        src="https://cdn.simpleicons.org/gmail"
+        width="28"
+        height="28"
+        alt="Gmail"
+        />
     </a>
   </p>
 </div>
@@ -46,6 +50,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 </div>
 
 <div align="center">
