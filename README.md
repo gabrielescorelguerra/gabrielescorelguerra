@@ -9,6 +9,7 @@
     <a href="https://linkedin.com/in/gabriel-escorel-guerra" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:SEU_EMAIL">
       <img
         src="https://cdn.simpleicons.org/gmail"
@@ -26,7 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/C-24292F?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
   <img src="https://img.shields.io/badge/SQL-24292F?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
