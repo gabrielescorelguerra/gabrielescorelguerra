@@ -10,7 +10,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:SEU_EMAIL">
+    <a href="mailto:gabrielescorelguerra@gmail.com">
       <img
         src="https://cdn.simpleicons.org/gmail"
         width="28"
