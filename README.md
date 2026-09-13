@@ -1,28 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=200&section=header&text=Gabriel%20Escorel%20Guerra&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20de%20Software&descAlignY=52&descSize=13" width="100%"/>
-  <p>
-    Estudante de Ciência da Computação na UFPR e desenvolvedor de software.<br/>
-    Interessado em desenvolvimento, automação e Inteligência Artificial.
-  </p>
- <br>
-  <p align="center">
-    <a href="https://linkedin.com/in/gabriel-escorel-guerra" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:gabrielescorelguerra@gmail.com">
-      <img
-        src="https://cdn.simpleicons.org/gmail"
-        width="28"
-        height="28"
-        alt="Gmail"
-        />
-    </a>
-  </p>
-</div>
-
----
-
 <h3 align="center">Linguagens</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -39,6 +14,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TailwindCSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-24292F?style=for-the-badge&logo=google-apps-script&logoColor=4285F4" alt="Google Apps Script"/>
@@ -47,13 +24,18 @@
 
 <br/>
 
+<h3 align="center">Automação e IA</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Selenium-24292F?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-24292F?style=for-the-badge&logo=python&logoColor=3776AB" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Google%20GenAI-24292F?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google GenAI"/>
+  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-24292F?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bot API"/>
+</div>
+
+<br/>
+
 <h3 align="center">Atualmente Estudando</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=80&section=footer" width="100%"/>
 </div>
