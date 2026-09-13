@@ -1,3 +1,21 @@
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=200&section=header&text=Gabriel%20Escorel%20Guerra&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20de%20Software&descAlignY=52&descSize=13" width="100%"/> 
+  <p> Estudante de Ciência da Computação na UFPR e desenvolvedor de software.
+    <br/> Interessado em desenvolvimento, automação e Inteligência Artificial. 
+  </p> 
+  <br> 
+  <p align="center"> 
+    <a href="https://linkedin.com/in/gabriel-escorel-guerra" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/> 
+    </a> &nbsp;&nbsp;&nbsp; 
+    <a href="mailto:gabrielescorelguerra@gmail.com"> 
+      <img src="https://cdn.simpleicons.org/gmail" width="28" height="28" alt="Gmail" /> 
+    </a>
+  </p> 
+</div>
+
+---
+
 <h3 align="center">Linguagens</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -39,3 +57,5 @@
   <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Java-24292F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 </div>
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=80&section=footer" width="100%"/> </div>
