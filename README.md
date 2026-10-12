@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-24292F?style=for-the-badge&logo=google-apps-script&logoColor=4285F4" alt="Google Apps Script"/>
   <img src="https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Cloudflare-24292F?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
 </div>
 
 <br/>
@@ -50,6 +51,7 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-24292F?style=for-the-badge&logo=python&logoColor=3776AB" alt="BeautifulSoup"/>
   <img src="https://img.shields.io/badge/Google%20GenAI-24292F?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google GenAI"/>
   <img src="https://img.shields.io/badge/Telegram%20Bot%20API-24292F?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bot API"/>
+  <img src="https://img.shields.io/badge/Playwright-24292F?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/>
 </div>
 
 <br/>
